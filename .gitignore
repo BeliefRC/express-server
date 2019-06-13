@@ -1,3 +1,10 @@
+# Editors
 .idea
+.vscode
+
+# static files
 dist/
+build/
+
+# dependency
 node_modules/
